@@ -1,0 +1,10 @@
+RNAMovies2 (and beyond) comes with a part of Batik 1.6 (http://xmlgraphics.apache.org/batik/) and 
+BioDOM 1.2 (http://biodom.sf.net). Both libraries are public available under the conditions of
+the Apache License (see LICENSE file in current directory).
+
+If you want have the full possibilities of the Batik and BioDOM libaries we recommend to download
+and use the latest and complete packages available at above mentioned webpages. The only reason
+for us to give only a part of them to RNAMovies is to decrease the file size for the applet and
+(webstart-) application.
+
+Jan Krueger <jkrueger@techfak.uni-bielefeld.de>
